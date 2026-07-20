@@ -56,3 +56,16 @@ README.md
 
 ## 👨‍💻 Author
 **Rameshwar Kawade**
+## 📸 Project Screenshots
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
+
+### Business Recommendations
+![Business Recommendations](business_recommendation.png)
