@@ -1,7 +1,8 @@
 # 🏦 Bank Customer Churn Prediction
 
 ## 📌 Project Overview
-This project predicts whether a bank customer is likely to leave (churn) using Machine Learning. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, model evaluation, and business recommendations to help improve customer retention.
+
+This project predicts whether a bank customer is likely to leave (churn) using **Python, SQL (SQLite), and Machine Learning**. It includes SQL-based data analysis, exploratory data analysis (EDA), feature engineering, model training, model evaluation, feature importance analysis, and business recommendations to help improve customer retention.
 
 ## 🎯 Objectives
 - Analyze customer behavior
@@ -25,6 +26,7 @@ This project predicts whether a bank customer is likely to leave (churn) using M
 
 ## 🛠 Technologies Used
 - Python
+- SQL (SQLite)
 - Pandas
 - NumPy
 - Scikit-learn
@@ -34,7 +36,9 @@ This project predicts whether a bank customer is likely to leave (churn) using M
 - Google Colab
 
 ## 🚀 Machine Learning Workflow
+
 - Data Cleaning
+- SQL Data Analysis
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Data Preprocessing
@@ -43,8 +47,12 @@ This project predicts whether a bank customer is likely to leave (churn) using M
 - Feature Importance Analysis
 - Business Recommendations
 
-## 📈 Results
-The trained machine learning model predicts customer churn and identifies the most important factors influencing customer retention.
+## ☑ Results
+
+- Built a customer churn prediction model with high predictive performance.
+- Performed SQL-based analysis to extract business insights from customer data.
+- Identified the most influential factors affecting customer churn.
+- Generated business recommendations to improve customer retention and reduce churn.
 
 ## 📁 Repository Structure
 ```
